@@ -124,7 +124,7 @@ $_lang['ms2_frontend_region'] = 'Область';
 $_lang['ms2_frontend_city'] = 'Город';
 $_lang['ms2_frontend_street'] = 'Улица';
 $_lang['ms2_frontend_building'] = 'Дом';
-$_lang['ms2_frontend_room'] = 'Комната';
+$_lang['ms2_frontend_room'] = 'Квартира';
 
 $_lang['ms2_frontend_order_cost'] = 'Итого, с доставкой';
 $_lang['ms2_frontend_order_submit'] = 'Сделать заказ!';
